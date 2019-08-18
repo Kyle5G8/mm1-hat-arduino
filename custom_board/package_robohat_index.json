@@ -20,6 +20,7 @@
           "boards": [
             {
               "name": "Robo HAT MM1"
+              "name": "HASP_SAMD_SENSOR"
             }
           ],
           "toolsDependencies":
