@@ -14,7 +14,8 @@
           "version": "0.0.12",
           "category": "Contributed",
           "url": "https://github.com/Kyle5G8/mm1-hat-arduino/blob/master/custom_board/FOLDER.zip?raw=true",
-          "checksum": "22cc176a1505db8091049e6fcd0bd676",
+          "archiveFileName": "FOLDER.zip",
+          "checksum": "SHA-256:22cc176a1505db8091049e6fcd0bd676",
           "size": "2,395,235",
           "boards": [
             {
