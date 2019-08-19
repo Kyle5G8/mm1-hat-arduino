@@ -14,8 +14,8 @@
           "version": "0.0.12",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/Kyle5G8/mm1-hat-arduino/master/custom_board/mm1-hat-arduino-master.zip",
-          "checksum": "75f61f0b39721b063f10ca1d595df0e2",
-          "size": "2381077",
+          "checksum": "22cc176a1505db8091049e6fcd0bd676",
+          "size": "2,395,235",
           "boards": [
             {
               "name": "Robo HAT MM1",
