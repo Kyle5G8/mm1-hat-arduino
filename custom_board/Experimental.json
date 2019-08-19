@@ -18,7 +18,7 @@
           "size": "2381077",
           "boards": [
             {
-              "name": "Robo HAT MM1"
+              "name": "Robo HAT MM1",
               "name": "HASP_SAMD_SENSOR"
             }
           ],
